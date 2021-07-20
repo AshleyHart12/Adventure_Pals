@@ -1,0 +1,42 @@
+body > #root {
+  position: absolute;
+  width: 100% !important;
+  height: 100% !important;      
+}
+
+#container {
+  height: 100% !important; 
+}
+
+.App {
+  text-align: center;
+}
+
+.activityCard {
+  color: black;
+  box-shadow: 5px 5px gray;
+}
+
+.hiking {
+  background-color: yellow;
+}
+
+.backpacking {
+  background-color: lightseagreen;
+}
+
+.climbing {
+  background-color: rgb(63, 240, 102);
+}
+
+
+/* 
+@keyframes App-logo-spin {
+
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
